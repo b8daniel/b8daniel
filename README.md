@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blxckOxymoron
 - 👀 I’m interested in Games, Programming and Tech.
 - 🌱 I’m currently learning at school.
-- 💞️ I’m looking to collaborate on 0
+- 💞️ I’m looking to collaborate on nothig (yet).
 - 📫 How to reach me: Discord.
 
 <!---
