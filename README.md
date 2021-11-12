@@ -4,5 +4,5 @@
 - 📫 You can reach out to me via Discord.
 
 ## Languages & Staistics
-![](https://github.com/blxckOxymoron/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/blxckOxymoron/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/blxckOxymoron/blxckOxymoron/blob/main/images/languages.svg)
+![](https://github.com/blxckOxymoron/blxckOxymoron/blob/main/images/overview.svg)
