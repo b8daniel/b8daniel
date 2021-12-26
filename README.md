@@ -1,3 +1,7 @@
+# BlxckOxymoron
+
+> *"know what you're doing"*
+
 - 👋 Hi, I’m @blxckOxymoron
 - 👀 I’m interested in Games, Programming and Tech.
 - 🌱 I’m currently learning at school.
