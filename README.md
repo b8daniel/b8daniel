@@ -7,8 +7,10 @@
 - 🌱 I’m currently learning at school.
 - 📫 You can reach out to me via Discord.
 
-## Languages & Staistics
-![Languages](https://raw.githubusercontent.com/blxckOxymoron/blxckOxymoron/stats/generated/languages.svg)
-![Statistics](https://raw.githubusercontent.com/blxckOxymoron/blxckOxymoron/stats/generated/overview.svg)
+## Personal Languages & Staistics
 
-[→ jstrieb/github-stats](https://github.com/jstrieb/github-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=blxckOxymoron&count_private=true&hide=issues,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blxckOxymoron&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+*code in organisations isn't included*
