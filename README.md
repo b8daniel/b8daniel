@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @blxckOxymoron
 - 👀 I’m interested in Games, Programming and Tech.
 - 🌱 I’m currently learning at school.
-- 📫 You can reach out to me via Discord.
+- 📫 You can reach out to me via Discord [@b8.daniel](https://discordapp.com/users/634832620521259008)
 
 ## Personal Languages & Staistics
 
