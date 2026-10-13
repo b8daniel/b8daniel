@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @b8daniel
 - 👀 I’m interested in games, 3d-printing, programming and tech.
-- 🌱 I’m currently doing an apprenticeship at @inovex.
+- 🌱 I’m currently working at @inovex.
 - 📫 You can reach out to me via Discord [@b8.daniel](https://discordapp.com/users/634832620521259008)
 
 ## Personal Languages & Staistics
